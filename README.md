@@ -1,5 +1,9 @@
+
 # Power-BI-Sales-Dashboard
 An interactive Power BI Sales Dashboard analyzing £2.29M in revenue, featuring regional performance tracking, temporal sales trends, and AI-driven influencer analysis.
+
+<img width="1427" height="803" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/0a794a2e-d2a0-40ae-92b6-542cc42618a6" />
+
 # Project Description
 This project demonstrates the end-to-end development of a Sales Performance Dashboard using Power BI. The analysis covers a total sales volume of £2,297,200.86 with a total quantity of 9,994 items sold. The dashboard provides a multi-layered view of business health, from high-level executive summaries to deep-dive regional analysis.
 
