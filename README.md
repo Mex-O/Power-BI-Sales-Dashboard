@@ -22,7 +22,7 @@ Customer Segmentation: Tracks the ranking of Consumer, Corporate, and Home Offic
 Predictive Analytics: Features a Key Influencers visual to determine regional drivers; for example, being located in Florida increases the likelihood of a region being "South" by 7.77x.
 
 
-### Visualizations Included
+# Visualizations Included
 
 Line Charts: Monthly sales performance.
 
